@@ -34,7 +34,7 @@ const Create = () => {
         
           navigate("/")
           console.log("response")
-      } )
+      } ) 
     })
 
   }
